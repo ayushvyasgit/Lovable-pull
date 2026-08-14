@@ -3,9 +3,7 @@
     <img src="https://lovable.dev/favicon.ico" width="36" alt="Lovable">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.snapchat.com/topic/hilarious-cat-workout-videos">
-    <img src="https://cf-st.sc-cdn.net/o/LFs6XtEBKvLYzv7IDUdL0.256.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&amp;uc=46" width="160" alt="Hilarious cat workout videos">
-  </a>
+  
 </p>
 
 <h1 align="center">Lovable Pull</h1>
